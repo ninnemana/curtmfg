@@ -1,0 +1,19 @@
+{
+  "name": "curtmfg",
+  "version": "0.0.1",
+  "authors": [
+    "Alex Ninneman @ninnemana",
+    "Broc Seigneurie"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery":"=1.11.0"
+  }
+}
